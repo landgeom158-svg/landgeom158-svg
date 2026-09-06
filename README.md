@@ -27,3 +27,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=landgeom158-svg&show_icons=true&locale=en" alt="landgeom158-svg" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=landgeom158-svg&" alt="landgeom158-svg" /></p>
+
+
+![snake gif](https://github.com/landgeom158-svg/landgeom158-svg/blob/output/github-snake-dark.svg)
